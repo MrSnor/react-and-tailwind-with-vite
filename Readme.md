@@ -5,7 +5,7 @@ Use this boilerplate as the starting point for your React + Tailwind CSS based p
 
 ## Features
 
-- Live Preview
+- Live Preview at https://react-and-tailwind-with-vite.netlify.app/
 - Free to use
 
 ## Tech Stack
